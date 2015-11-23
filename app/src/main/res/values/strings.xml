@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MemeMe</string>
+    <string name="memeMeButton">MemeMe</string>
+    <string name="memeTopDefaultText">mampf mampf</string>
+    <string name="memeBottomDefaultText">mampf mampf</string>
+</resources>
